@@ -8,7 +8,8 @@ permalink: /research/NumAnl_Pen
 ---
 
 This was my research project for CSU Fullerton’s Econ 595 Reseach Capstone. In this project we look at wine auction data from 2014-2015 and test if the declining price anomaly is still present using R and Stata. To test, this I developed a model 
-$$\log{Bid750}_{t+1}=&\alpha+\beta_0{Size}_{t+1}+\beta_1{High Estimate750}_{t+1}+\beta_3Qty_{t+1}+\beta_4Year_{t+1}\\
-&+\beta_2{Low Estimate750}_{t+1}+\beta_5Order_{t+1}+\epsilon_t$$
+$$\log{Bid750}_{t+1}=\alpha+\beta_0{Size}_{t+1}+\beta_1{High Estimate750}_{t+1}+\beta_3 Qty_{t+1}+\beta_4 Year_{t+1}+\beta_2{Low Estimate750}_{t+1}+\beta_5 Order_{t+1}+\epsilon_t$$
+
+$$\lim_{x \to 0^+} \dfrac{1}{x} = \infty$$
 
 [Econ 595 Term Project](R004_wine/Econ_595_Project.pdf)
