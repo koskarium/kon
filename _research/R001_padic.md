@@ -2,6 +2,7 @@
 title: "p-adic Analysis (2011)"
 excerpt: "A short study on p-adic numbers my first year in college." #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
+type: "keywords: analysis, independent studies"
 permalink: /research/padic
 ---
 
