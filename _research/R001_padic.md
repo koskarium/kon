@@ -1,6 +1,6 @@
 ---
 title: "p-adic Analysis (2011)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='R001_padic/500x300.png'>"
 collection: research
 permalink: /research/padic
 ---
