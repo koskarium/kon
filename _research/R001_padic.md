@@ -7,4 +7,4 @@ permalink: /research/padic
 
 This is a set of notes I have written for the various talks I have given at CSU Fullerton, Fullerton College, Pepperdine University, and Loyola Marymount University. It came from an independent study (Math 499) under the supervision of Dr. Ibragimov from Spring of 2011 to Fall of 2011.
 
-[p-adic Analysis](https://koskarn.files.wordpress.com/2012/01/p-adic.pdf)
+[p-adic Analysis](paper1.pdf)
