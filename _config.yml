@@ -11,9 +11,9 @@ title                    : "Oskar's Homepage"
 title_separator          : "-"
 name                     : &name "K Oskar Negron"
 description              : &description "personal description"
-url                      : https://koskarium.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://koskarium.github.io/kon # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "koskarium.github.io/home"
+repository               : "koskarium.github.io/kon"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
