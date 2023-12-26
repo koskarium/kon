@@ -4,7 +4,7 @@ excerpt: "
 This research project was conducted under the supervision of Dr. Murphy from CSUF. We studied minimal surfaces and we analyzed the index of the Scherk's surface. <br>
 ***Keywords:*** *differential geometry, minimal surfaces, Scherk's surface, 2nd order area variation, math, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
-permalink: /research/wine
+permalink: /research/stabilitymin
 ---
 
 This research project was conducted under the supervision of Dr. Murphy from CSUF. We studied minimal surfaces and we analyzed the index of the Scherk's surface using code developed in Mathematica. This ultimately was the precursor to the paper eventually published.
