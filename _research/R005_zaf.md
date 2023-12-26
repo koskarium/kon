@@ -1,5 +1,5 @@
 ---
-title: "A Look at South Africa’s Monetary Policy (2016)"
+title: "[5] A Look at South Africa’s Monetary Policy (2016)"
 excerpt: "In 2000, South Africa began using a inflation targetin monetary policy. We develop an structured VAR model to analyze the effect of this policy change in controlling inflation.  <br>
 ***Keywords:*** *VAR, structured VAR, Eviews, R, statistics, monetary policy, macroeconomics, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research

@@ -1,5 +1,5 @@
 ---
-title: "A Numerical Investigation on the Period of the Simple Pendulum Problem (2014)"
+title: "[3] A Numerical Investigation on the Period of the Simple Pendulum Problem (2014)"
 excerpt: "An undergrad numerical analysis project where we studied the Simple Pendulum Problem using MATLAB.<br> 
 ***Keywords:*** *MATLAB, numerical analysis, Legendre-Gauss quadrature, elliptical integrals, math, undegrad*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research

@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Wine Auction Data for Price Anomaly (2015)"
+title: "[4] Analyzing Wine Auction Data for Price Anomaly (2015)"
 excerpt: "We look at wine auction data from 2014-2015 and test if the declining price anomaly is still present. We will investigate what factors have an
 affect on the winning bid price in the sequential period. <br>
 ***Keywords:*** *auctions, declining price anomaly, regression, R, stata, economics, data analysis, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
