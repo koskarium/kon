@@ -23,13 +23,47 @@ Work Experience
   * **Instructor**; August 2020 - Present
   * Lead engaging after-school STEM program, fostering curiosity and critical thinking among students
   * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, and life sciences
-* **CSU Fullerton**
-  * **Educational Research Data Analyst - Center for Economic Education**; Sept 2019 - May 2022
+* **Edwards Lifesciences - Consulting**
+  * **Statistician/Quality Control**; Nov 2022 - May 2023
+  * Provided expert guidance to engineers in subjects like PDEs, fluid dynamics, stochastic processes 
+  * Developed a theoretical stochastic process framework to assess the signal blockage probability in randomly generated spaces and leveraging a strong proficiency in MATLAB to design and implement a simplistic ray-tracing model
+  * Created sample plans, interpreted if data is normal, created validation plans, automated Gage R&R analysis, and evaluated validation results
+* **CSU Fullerton Center for Economic Education**
+  * **Educational Research Data Analyst**; Sept 2019 - May 2021
   * Developed VBA and R scripts for efficient survey data collected with Qualtrics encoding and conducted lexicon and factor score analysis
   * Implemented advanced multinomial logistic regression models for in-depth educational research analysis
   * Collaborated closely with the research team, contributing statistical expertise and assisting in the interpretation and communication of research findings to diverse audiences
-* 
-* 
+* **Woods Center for Economic Analysis and Forecasting - Consulting**
+  * **Econometrician**; July 2020-Oct 2020
+  * Utilized Python for data preprocessing, R for Box-Jenkins modeling, and Excel for dynamic visualization, producing comprehensive reports that drive actionable insights 
+  * Streamlined and automated data set downloading with APIs and updates using Python, ensuring real-time access to critical information for analysis and forecasting
+  * Received accolades for the implementations efficacy in enhancing forecasting capabilities and optimizing processes through automation for the 2020 Fall Economic Forecast Virtual Conference held October 22, 2020
+* **The Conference Board - Consulting** 
+  * **Econometrician**; Jan 2019-Aug 2019
+  *Monitor and track the latest economic trends in microeconomics and macroeconomics, specifically for the GCC region, skillfully interpreting and leveraging historical data and current market trends to offer real-time updates and empower data-driven strategies and informed recommendations 
+* **CSU Fullerton Department of Economics and Department of Physics**
+  * **Teaching Associate**; Aug 2014 - July 2019
+  * Delivered engaging and comprehensive lectures for both first and second-year physics courses, catering to students with diverse backgrounds in calculus and non-calculus versions of mechanics and electrodynamics 
+  * Spearheaded seminars for third-year economic courses, including managerial economics, microeconomics, econometrics, international economics, and macroeconomics
+  * Offered dedicated office hours, fostering a supportive learning environment and providing personalized guidance to students facing challenges in the subject matter
+* **Binary Research Institute - Consulting**
+  * **Jr. Research Scientist**; May 2015-Aug 2015
+  * Developed a sophisticated MATLAB simulation to investigate the hypothetical scenario of our Sun being part of a binary system with an unseen celestial companion, exploring the potential implications on nearby planets
+  * Employed advanced numerical methods, including RungeKutta Methods to accurately model the systems dynamics
+* **CSU Fullerton Department of Mathematics**
+  * ** Research Assistant**; Aug 2015 - Present
+  * Developed an innovative method to determine a lower bound for the index of the Scherk surface, utilizing admissible perturbations and bump functions
+  * Devised a sophisticated MATLAB code to efficiently calculate and visually represent the spectrum of the second variation formula for minimal surfaces. This cutting-edge approach enabled the assessment of the stability of the dihedral Eneper surface by transforming the problem into a Dirichlet problem
+  * Conducted an extensive literature review, assimilating relevant research findings, and collaborated closely in the preparation of a manuscript for publication in the prestigious journal Experimental Mathematics
+* **CSU Fullerton Department of Physics**
+  * **Research Assistant**; Jan 2015 - June 2017
+  * Revamped the experimental design by introducing a piezo driver, enabling the measurement of photon counts versus voltage through the driver. This transformative enhancement automated the experiment, saving valuable time previously spent on manual adjustments of distances
+  * Designed theoretical model for photon experiment, calibrated interferometer, and automated data analysis and mining with Python and MATLAB
+* **Nationwide**
+  **Pricing Actuarial Intern**; Sep 2014-Jan 2015
+  * Utilized R and SQL for data visualization and analysis, contributed to pricing strategies, supported risk assessment and created reporting dashboards with Tableu
+  * Actively contributed to team meetings, fostering a collaborative environment that facilitated knowledge exchange and enriched understanding of the various intricacies of the insurance industry
+  * Assisted senior actuaries in conducting data analysis, risk assessments, and predictive modeling, playing a pivotal role in supporting critical business decisions and driving risk mitigation strategies
 
 
 Teaching Experience 
