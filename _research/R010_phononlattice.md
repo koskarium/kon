@@ -11,7 +11,7 @@ This was my term paper for Phys 554 Solid State Physics. Phononic crystals are t
 
 
 
-### [Click here to open the paper in a new browser](R010_phononlattice/Phys_554_Term_Project_Lattice_Vibrations_in_1D_Aperiodic_Lattice.pd)
-<object data="R010_phononlattice/Phys_554_Term_Project_Lattice_Vibrations_in_1D_Aperiodic_Lattice.pd#view=fitH" width="1000" height="1000" type='application/pdf'></object>
+### [Click here to open the paper in a new browser](R010_phononlattice/Phys_554_Term_Project_Lattice_Vibrations_in_1D_Aperiodic_Lattice.pdf)
+<object data="R010_phononlattice/Phys_554_Term_Project_Lattice_Vibrations_in_1D_Aperiodic_Lattice.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>
 
 
