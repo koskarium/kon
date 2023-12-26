@@ -10,4 +10,4 @@ This is a set of notes I have written for the various talks I have given at CSU 
 
 
 ### [Click here to open the paper in a new browser](R001_padic/p_adic.pdf)
-<object data="R001_padic/p_adic.pdf.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>
+<object data="R001_padic/p_adic.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>
