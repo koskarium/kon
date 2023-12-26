@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **.A. Economics**, California State University Fullerton, 2022
+* **M.A. Economics**, California State University Fullerton, 2022
 * **M.S. Physics**, California State University Fullerton, 2022
 * **B.A. Applied Mathematics**, California State University Fullerton, 2014
 * **B.S. Physics**, California State University Fullerton, 2014
