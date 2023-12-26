@@ -21,13 +21,13 @@ Work Experience
 ======
 * **Placentia-Yorba Linda Unified School District**
   * **Instructor**; August 2020 - Present
-  * Lead engaging after-school STEM program, fostering curiosity and critical thinking among students
+  * Lead engaging after-school STEM programs, fostering curiosity and critical thinking among students
   * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, and life sciences
 * **Edwards Lifesciences - Consulting**
   * **Statistician/Quality Control**; Nov 2022 - May 2023
   * Provided expert guidance to engineers in subjects like PDEs, fluid dynamics, stochastic processes 
-  * Developed a theoretical stochastic process framework to assess the signal blockage probability in randomly generated spaces and leveraging a strong proficiency in MATLAB to design and implement a simplistic ray-tracing model
-  * Created sample plans, interpreted if data is normal, created validation plans, automated Gage R&R analysis, and evaluated validation results
+  * Developed a theoretical stochastic process framework to assess the signal blockage probability in randomly generated spaces and leveraged a strong proficiency in MATLAB to design and implement a simplistic ray-tracing model
+  * Created sample plans, interpreted if data was normal, created validation plans, automated Gage R&R analysis, and evaluated validation results
 * **CSU Fullerton Center for Economic Education**
   * **Educational Research Data Analyst**; Sept 2019 - May 2021
   * Developed VBA and R scripts for efficient survey data collected with Qualtrics encoding and conducted lexicon and factor score analysis
@@ -37,7 +37,7 @@ Work Experience
   * **Econometrician**; July 2020-Oct 2020
   * Utilized Python for data preprocessing, R for Box-Jenkins modeling, and Excel for dynamic visualization, producing comprehensive reports that drive actionable insights 
   * Streamlined and automated data set downloading with APIs and updates using Python, ensuring real-time access to critical information for analysis and forecasting
-  * Received accolades for the implementations efficacy in enhancing forecasting capabilities and optimizing processes through automation for the 2020 Fall Economic Forecast Virtual Conference held October 22, 2020
+  * Received accolades for the efficacy of the implementation in enhancing forecasting capabilities and optimizing processes through automation for the 2020 Fall Economic Forecast Virtual Conference held on October 22, 2020
 * **The Conference Board - Consulting** 
   * **Econometrician**; Jan 2019-Aug 2019
   * Monitor and track the latest economic trends in microeconomics and macroeconomics, specifically for the GCC region, skillfully interpreting and leveraging historical data and current market trends to offer real-time updates and empower data-driven strategies and informed recommendations 
@@ -61,7 +61,7 @@ Work Experience
   * Designed theoretical model for photon experiment, calibrated interferometer, and automated data analysis and mining with Python and MATLAB
 * **Nationwide**
   * **Pricing Actuarial Intern**; Sep 2014-Jan 2015
-  * Utilized R and SQL for data visualization and analysis, contributed to pricing strategies, supported risk assessment and created reporting dashboards with Tableu
+  * Utilized R and SQL for data visualization and analysis, contributed to pricing strategies, supported risk assessment and created reporting dashboards with Tableau
   * Actively contributed to team meetings, fostering a collaborative environment that facilitated knowledge exchange and enriched understanding of the various intricacies of the insurance industry
   * Assisted senior actuaries in conducting data analysis, risk assessments, and predictive modeling, playing a pivotal role in supporting critical business decisions and driving risk mitigation strategies
 
@@ -71,61 +71,61 @@ Teaching Experience
 * **Coding Instructor**
   * PYLUSD; Instructor
   * Fall 2022-Present
-  * Taught coding courses to students grades 3-8. Coding languages including: Scratch.mit and python
-* **Science Intructor**
+  * Taught coding courses to students in grades 3-8. Coding languages including Scratch.mit and python
+* **Science Instructor**
   * PYLUSD; Instructor
   * Spring 2020-Present
   * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, cinematography, and life sciences
-* **Substritute Teacher**
+* **Substitute  Teacher**
   * PYLUSD; Instructor
   * Fall 2022-Present
-  * Have subbed for the following coursese: AP Calculus, AP Physics, AP Econonmics, Data Science, Chemistry, Economics, Geometry, Algebra I, Alegbra II, Pre-Calculus
+  * Have subbed for the following courses: AP Calculus, AP Physics, AP Econonmics, Data Science, Chemistry, Economics, Geometry, Algebra I, Algebra II, Pre-Calculus
 * **Econ 320 Intermediate Macroecononmics**
   * CSUF; Teaching Associate 
   * Spring 2018-2019
-  * Held weekly office hours (2) and problem solving seminars (1)
+  * Held weekly office hours (2) and problem-solving seminars (1)
 * **Economics 335 International Economics**
   * CSUF; Teaching Associate
   * Spring 2016-2019
-  * Held weekly office hours (2) and problem solving seminars (1)
+  * Held weekly office hours (2) and problem-solving seminars (1)
 * **Econ 201 Principles of Microeconomics**
   * CSUF; Teaching Associate
   * Spring 2019
-  * Held weekly office hours (2) and problem solving seminars (1)
+  * Held weekly office hours (2) and problem-solving seminars (1)
 * **Math 210 Introduction to Laplace Transforms and Fourier Series** 
   * CSUF; Teaching Assistant 
   * Fall 2017
-  * Held weekly office hours (1) and problem solving seminars (1)
+  * Held weekly office hours (1) and problem-solving seminars (1)
 * **Math 150A Calculus with Analytical Geometry I**
   * CSUF; Teaching Assistant 
   * Fall 2017
-  * Held weekly office hours (1) and problem solving seminars (1)
+  * Held weekly office hours (1) and problem-solving seminars (1)
 * **Physics 212 Elementary Physics**
   * CSUF; Teaching Associate
   * Fall 2015-Spring 2017
-  * Held weekly office hours (2) and problem solving seminars (1)
+  * Held weekly office hours (2) and problem-solving seminars (1)
 * **Physics 225: Introduction to Classical Mechanics**
   * CSUF; Teaching Associate
   * Spring 2017
-  * Held weekly office hours (2) and problem solving seminars (1)
+  * Held weekly office hours (2) and problem-solving seminars (1)
 * **Economics 315: Intermediate Business Microeconomics**
   * CSUF; Graduate Assistant 
   * Fall 2016-Spring 2017
 * **Physics 211: Elementary Physics**
   * Fall 2016
-  * Held weekly office hours (2) and problem solving seminars (1)
+  * Held weekly office hours (2) and problem-solving seminars (1)
 * **Physics 226: Introduction to Electricity and Magnetism**
   * CSUF; Teaching Associate
   * Fall 2015-Spring 2017
-  * Held weekly office hours (2) and problem solving seminars (1)
+  * Held weekly office hours (2) and problem-solving seminars (1)
 * **Physics 212: Elementary Physics**
   * CSUF; Supplemental Instructor
   * Fall 2014
-  * Made worksheet and guided students in problem solving seminars where we focus on developing problem solving techniques
+  * Made worksheet and guided students in problem-solving seminars where we focus on developing problem solving techniques
 * **Physics 226: Introduction to Electricity and Magnetism**
   * CSUF; Supplemental Instructor
   * Spring 2014
-  * Made worksheet and guided students in problem solving seminars where we focus on developing problem solving techniques
+  * Made worksheet and guided students in problem-solving seminars where we focus on developing problem solving techniques
 * **Math 150B: Calculus with Analytical Geometry II**
   * CSUF; Grader
   * Fall 2011
@@ -162,10 +162,10 @@ Research
 * **Spectrum of Black Scholes Equation (2021)**, K.O. Negron
 * **Numerically destabilizing minimal discs (2018)**, N. Brubaker, T. Murphy, and K.O. Negron
 * **Lattice Vibrations in Aperiodic Self-Similar Low Dimension Phonon Lattice (2017)**, K.O. Negron
-* **General General Relativity and Chameleon Action Integrals (2017)**, K.O. Negron (under supervision of Dr. Fearn)
+* **General General Relativity and Chameleon Action Integrals (2017)**, K.O. Negron (under the supervision of Dr. Fearn)
 * **A Look at South Africa’s Monetary Policy (2016)**, K.O. Negron
 * **Of Stability and Other Minimal Surfaces (2016)**, K.O. Negron (under the supervision of Dr. Murphy)
-* **Bi-Photon Interference (2016)**, K.O. Negron (under supervision of Dr. Fearn)
+* **Bi-Photon Interference (2016)**, K.O. Negron (under the supervision of Dr. Fearn)
 * **Puzzles: A Look at the Declining Price Anomaly (2015)**, K.O. Negron
 * **Single Photon Interference (2015)**, B.C. Clark and K.O. Negron (under supervision of Dr. Fearn)
 * **A Numerical Investigation on the Period of the Simple Pendulum Problem (2014)**, K.O. Negron
