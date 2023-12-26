@@ -17,4 +17,4 @@ where $$Bid750_{t+1}$$ is the hammer price per 750ml at time $$t+1$$, $$Bid750_{
 <object data="R004_wine/Econ_595_Project.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
-[Term Project](R004_wine/Econ_595_Project.pdf)
+## [Click here to open in a new browser](R004_wine/Econ_595_Project.pdf)
