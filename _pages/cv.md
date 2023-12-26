@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* M.A. Economics, California State University Fullerton, 2022
-* M.S. Physics, , California State University Fullerton, 2022
-* B.A. Applied Mathematics, California State University Fullerton, 2014
-* B.S. Physics, California State University Fullerton, 2014
-* B.A. Pure Mathematics, California State University Fullerton, 2014
+* **.A. Economics**, California State University Fullerton, 2022
+* **M.S. Physics**, California State University Fullerton, 2022
+* **B.A. Applied Mathematics**, California State University Fullerton, 2014
+* **B.S. Physics**, California State University Fullerton, 2014
+* **B.A. Pure Mathematics**, California State University Fullerton, 2014
 
 Teaching Experience 
 ======
@@ -85,91 +85,95 @@ Teaching Experience
 
 Participation in Workshops and Conferences
 ======
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Pacific Summer Open Math Seminar Wrap-up Mini-Conference
+  * Fullerton College, Fullerton, Ca (August 26, 2016)
+* 8th Annual Pacific Coast Undergraduate Mathematics Conference
+  * California State Polytechnic University Pomona, Pomona, Ca (March 16, 2013)
+* 5th Annual Mathematical Field of Dreams Conference
+  * National Alliance for Doctoral Studies in the Mathematical Sciences, Tempe, Az (November 2-4, 2012)
+* 7th Annual Pacific Coast Undergraduate Mathematics Conference 
+  * California State Polytechnic University Pomona, Pomona, Ca (March 10, 2012)
+* 2nd Annual California Community College Student Math Conference
+  * Fullerton College, Fullerton, Ca (Dec 10, 2011)
+* Pacific Summer Unsolved Mathematics Seminar
+  * Fullerton College, Fullerton, Ca (July 14, 2011)
+* International Analysis Workshop
+  * California State University Fullerton, Fullerton, Ca (July 14, 2011)
+* 6th Annual Pacific Coast Undergraduate Mathematics Conference
+  * Loyola Marymount University, Los Angeles, Ca (March 12, 2011)
+* 5th Annual Pacific Coast Undergraduate Mathematics Conference
+  * Pepperdine University, Malibu, Ca (March 13, 2010)
 
 
 Research
 ======
-* Signal Analysis Propagation (2023), K.O. Negron
-* Monetary Policy Transmission Mechanism: A Case Study on the Mexican Economy (2022), K.O. Negron (thesis supervision of Dr. Gabriela Best)
-* Weierstrauss Theory For Multicomplex Function (2021), D. Clahane and K.O. Negron
-* Spectrum of Black Scholes Equation (2021), K.O. Negron
-* Numerically destabilizing minimal discs (2018), N. Brubaker, T. Murphy, and K.O. Negron
-* Lattice Vibrations in Aperiodic Self-Similar Low Dimension Phonon Lattice (2017), K.O. Negron
-* General General Relativity and Chameleon Action Integrals (2017), K.O. Negron (under supervision of Dr. Fearn)
-* A Look at South Africa’s Monetary Policy (2016), K.O. Negron, 42 pages
-* Of Stability and Other Minimal Surfaces (2016), K.O. Negron (under the supervision of Dr. Murphy)
-* Bi-Photon Interference (2016), K.O. Negron (under supervision of Dr. Fearn)
-* Puzzles: A Look at the Declining Price Anomaly (2015), K.O. Negron
-* Single Photon Interference (2015), B.C. Clark and K.O. Negron (under supervision of Dr. Fearn)
-* A Numerical Investigation on the Period of the Simple Pendulum Problem (2014), K.O. Negron
-* Walter Rudin’s theory extended to multicomplex-valued function spaces (2013), D. Clahane and K.O.Negron
-* Shadow Sensoring: Determining Damping with Lasers and Photo Diodes (2012), K.O. Negron and D. Orton (under the supervision of Dr. Smith)
-* p-adic Analysis - A Set of Notes (2011), K.O. Negron (under the supervision of Dr. Ibragimov)
+* **Signal Analysis Propagation (2023)**, K.O. Negron
+* **Monetary Policy Transmission Mechanism: A Case Study on the Mexican Economy (2022)**, K.O. Negron (thesis supervision of Dr. Gabriela Best)
+* **Weierstrauss Theory For Multicomplex Function (2021)**, D. Clahane and K.O. Negron
+* **Spectrum of Black Scholes Equation (2021)**, K.O. Negron
+* **Numerically destabilizing minimal discs (2018)**, N. Brubaker, T. Murphy, and K.O. Negron
+* **Lattice Vibrations in Aperiodic Self-Similar Low Dimension Phonon Lattice (2017)**, K.O. Negron
+* **General General Relativity and Chameleon Action Integrals (2017)**, K.O. Negron (under supervision of Dr. Fearn)
+* **A Look at South Africa’s Monetary Policy (2016)**, K.O. Negron, 42 pages
+* **Of Stability and Other Minimal Surfaces (2016)**, K.O. Negron (under the supervision of Dr. Murphy)
+* **Bi-Photon Interference (2016)**, K.O. Negron (under supervision of Dr. Fearn)
+* **Puzzles: A Look at the Declining Price Anomaly (2015)**, K.O. Negron
+* **Single Photon Interference (2015)**, B.C. Clark and K.O. Negron (under supervision of Dr. Fearn)
+* **A Numerical Investigation on the Period of the Simple Pendulum Problem (2014)**, K.O. Negron
+* **Walter Rudin’s theory extended to multicomplex-valued function spaces (2013)**, D. Clahane and K.O.Negron
+* **Shadow Sensoring: Determining Damping with Lasers and Photo Diodes (2012)**, K.O. Negron and D. Orton (under the supervision of Dr. Smith)
+* **p-adic Analysis - A Set of Notes (2011)**, K.O. Negron (under the supervision of Dr. Ibragimov)
   
 Talks
 ======
-* Monetary Policy Transmission Mechanism: A Case Study on the Mexican Economy
+* **Monetary Policy Transmission Mechanism: A Case Study on the Mexican Economy**
   * Master of Arts in Economics Thesis Defence - California State University Fullerton, Fullerton, Ca (December 15, 2022)
-* Photon Interference
+* **Photon Interference**
   * Master of Science in Physics Thesis Defence - California State University Fullerton, Fullerton, Ca (May 22, 2017)
-* Stability of Minimal Surfaces: A Study on Scherk Surface
+* **Stability of Minimal Surfaces: A Study on Scherk Surface**
   * Pacific Summer Open Math Seminar Wrap-up Mini-Conference – Fullerton College, Fullerton, Ca (August 26, 2016)
-* Multicomplex Stone-Weierstrass Theorem
+* **Multicomplex Stone-Weierstrass Theorem**
   * 8th Annual Pacific Coast Undergraduate Mathematics Conference – California State Polytechnic University Pomona, Pomona, Ca (March 16, 2013)
-* Isometries in metric and ultrametric spaces
+* **Isometries in metric and ultrametric spaces**
   * 7th Annual Pacific Coast Undergraduate Mathematics Conference – California State Polytechnic University Pomona, Pomona, Ca (March 10, 2012)
   * Math Colloquium – Fullerton College, Fullerton, Ca (November 15, 2011)
-* The Ring of p-adic Numbers
+* **The Ring of p-adic Numbers**
   * Math Colloquium – Fullerton College, Fullerton, Ca (January 24, 2012)
-* An introduction to the geometry of ultrametric spaces
+* **An introduction to the geometry of ultrametric spaces**
   * 2nd Annual California Community College Student Math Conference – Fullerton College, Fullerton, Ca (December 10, 2011)
-* Isometries of p-adic Integers
+* **Isometries of p-adic Integers**
   * Analysis Seminar – California State University Fullerton, Fullerton, Ca (November 3, 2011)
-* Metric spaces and an invitation to p-adic calculus
+* **Metric spaces and an invitation to p-adic calculus**
   * Math Colloquium – Fullerton College, Fullerton, Ca (September 6, 2011)
-* An introduction to p-adic analysis with application
+* **An introduction to p-adic analysis with application**
   * Pacific Summer Unsolved Mathematics Seminar – Fullerton College, Fullerton, Ca (July 14, 2011)
-* An introduction to p-Adic Numbers and Applications
+* **An introduction to p-Adic Numbers and Applications**
   * International Analysis Workshop – California State University Fullerton, Fullerton, Ca (May 5, 2011)
-* A Brief Introduction to p-adic Numbers
+* **A Brief Introduction to p-adic Numbers**
   * 6th Annual Pacific Coast Undergraduate Mathematics Conference – Loyola Marymount University, Los Angeles, Ca (March 12, 2011)
-* Introduction to the visualization of function behavior involving iteration (dynamics) using Mathematica
+* **Introduction to the visualization of function behavior involving iteration (dynamics) using Mathematica**
   * Math Colloquium – Fullerton College, Fullerton, Ca (November 2, 2010)
-* Are there universes where gravitational forces allow an object to stay at rest?
+* **Are there universes where gravitational forces allow an object to stay at rest?**
   * 5th Annual Pacific Coast Undergraduate Mathematics Conference – Pepperdine University, Malibu, Ca (March 13, 2010)
 
-  
+Professional Exams
+======
+* **Passed Society of Actuaries Exam P**
+  * July 2014
+* **Passed Society of Actuaries Exam FM**
+  * August 2014
+
 Memberships
 ======
-* Western Economic Association International
+* **Western Economic Association International**
   * August 2017-Present
-* Optical Society of Southern California
+* **Optical Society of Southern California**
   * June 2016-Present
-* International Economics Honor Society
+* **International Economics Honor Society**
   * June 2016-Present
-* the Optical Society (OSA)
+* **the Optical Society (OSA)**
   * May 2016-Present
-* National Alliance for Doctoral Studies in Mathematics Alliance Scholar
+* **National Alliance for Doctoral Studies in Mathematics Alliance Scholar**
   * Nov 2012-Present
 
 
