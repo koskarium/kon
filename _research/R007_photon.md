@@ -1,7 +1,7 @@
 ---
 title: "[7-8] Photon Inteference (2015-16)"
 excerpt: "
-This research project was conducted under the supervision of Dr. Murphy from CSUF. We studied minimal surfaces and we analyzed the index of the Scherk's surface. <br>
+This project was conducted under the supervision of Dr. Heidi Fearn from CSUF. We explored single-photon interference and bi-photon interference. This project was for the completion of my MS in Physics.<br>
 ***Keywords:*** *experimental physics, quantum optics, photons, interference, physics, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
 permalink: /research/photon
