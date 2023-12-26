@@ -17,6 +17,21 @@ Education
 * **B.S. Physics**, California State University Fullerton, 2014
 * **B.A. Pure Mathematics**, California State University Fullerton, 2014
 
+Work Experience 
+======
+* **Placentia-Yorba Linda Unified School District**
+  * **Instructor**; August 2020 - Present
+  * Lead engaging after-school STEM program, fostering curiosity and critical thinking among students
+  * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, and life sciences
+* **CSU Fullerton**
+  * **Educational Research Data Analyst - Center for Economic Education**; Sept 2019 - May 2022
+  * Developed VBA and R scripts for efficient survey data collected with Qualtrics encoding and conducted lexicon and factor score analysis
+  * Implemented advanced multinomial logistic regression models for in-depth educational research analysis
+  * Collaborated closely with the research team, contributing statistical expertise and assisting in the interpretation and communication of research findings to diverse audiences
+* 
+* 
+
+
 Teaching Experience 
 ======
 * **Coding Instructor**
@@ -85,23 +100,23 @@ Teaching Experience
 
 Participation in Workshops and Conferences
 ======
-* Pacific Summer Open Math Seminar Wrap-up Mini-Conference
+* **Pacific Summer Open Math Seminar Wrap-up Mini-Conference**  
   * Fullerton College, Fullerton, Ca (August 26, 2016)
-* 8th Annual Pacific Coast Undergraduate Mathematics Conference
+* **8th Annual Pacific Coast Undergraduate Mathematics Conference**
   * California State Polytechnic University Pomona, Pomona, Ca (March 16, 2013)
-* 5th Annual Mathematical Field of Dreams Conference
+* **5th Annual Mathematical Field of Dreams Conference**
   * National Alliance for Doctoral Studies in the Mathematical Sciences, Tempe, Az (November 2-4, 2012)
-* 7th Annual Pacific Coast Undergraduate Mathematics Conference 
+* **7th Annual Pacific Coast Undergraduate Mathematics Conference**
   * California State Polytechnic University Pomona, Pomona, Ca (March 10, 2012)
-* 2nd Annual California Community College Student Math Conference
+* **2nd Annual California Community College Student Math Conference**
   * Fullerton College, Fullerton, Ca (Dec 10, 2011)
-* Pacific Summer Unsolved Mathematics Seminar
+* **Pacific Summer Unsolved Mathematics Seminar**
   * Fullerton College, Fullerton, Ca (July 14, 2011)
-* International Analysis Workshop
+* **International Analysis Workshop**
   * California State University Fullerton, Fullerton, Ca (July 14, 2011)
-* 6th Annual Pacific Coast Undergraduate Mathematics Conference
+* **6th Annual Pacific Coast Undergraduate Mathematics Conference**
   * Loyola Marymount University, Los Angeles, Ca (March 12, 2011)
-* 5th Annual Pacific Coast Undergraduate Mathematics Conference
+* **5th Annual Pacific Coast Undergraduate Mathematics Conference**
   * Pepperdine University, Malibu, Ca (March 13, 2010)
 
 
@@ -163,6 +178,38 @@ Professional Exams
 * **Passed Society of Actuaries Exam FM**
   * August 2014
 
+Honors & awards
+======
+* **Outstanding Graduate Scholarly Research Award**
+  * May 2017
+* **Outstanding Graduate Student**
+  * May 2017
+* **Pacific Life Actuary Scholarship**
+  * May 2016
+* **Robert Kedzie Award**
+  * May 2013
+* **Eiker-Adams Creativity Award**
+  * May 2015
+* **Actuarial Studies Scholarship**
+  * May 2014
+* **Lawrence Weill Applied Mathematics Scholarship**
+  * 2013-14
+* **Robert Kedzie Award**
+  * May 2013
+* **Russell V. and Betty L. Benson Scholarship for Undergraduate Mathematics Students**
+  * May 2013
+* **National Alliance for Doctoral Studies in Mathematics Alliance Scholar**
+  * Nov 2012
+* **Alumni Association Scholarship for Natural Sciences and Mathematics**
+  * 2012-13
+* **The Stiel Prize for Excellence in Mathematics**
+  * 2012-13
+* **Dan Black Physics Scholarship**
+  * 2011-14
+* **Dean's List**
+  * 2011-14
+
+
 Memberships
 ======
 * **Western Economic Association International**
@@ -175,8 +222,3 @@ Memberships
   * May 2016-Present
 * **National Alliance for Doctoral Studies in Mathematics Alliance Scholar**
   * Nov 2012-Present
-
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
