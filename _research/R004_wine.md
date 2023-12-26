@@ -4,7 +4,7 @@ excerpt: "We look at wine auction data from 2014-2015 and test if the declining 
 affect on the winning bid price in the sequential period. <br>
 ***Keywords:*** *acutions, price anomaly, regression, R, stata, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
-permalink: /research/NumAnl_Pen
+permalink: /research/wine
 ---
 
 This was my research project for CSU Fullerton’s Econ 595 Reseach Capstone. In this project we look at wine auction data from 2014-2015 and test if the declining price anomaly is still present using R and Stata. The declining price anomaly is concern with the obsercation that in multi-item acutions of identical object, the price tends to decresease over time. Effectivly, we are testing to see if there is a premium for buying the item early given that there might not be more as time progresses. To test, this we developed a model 
