@@ -9,12 +9,14 @@ permalink: /research/photon
 
 This was my project conducted under the supervision of Dr. Heidi Fearn for the completion of my MS in Physics. We explored single-photon interference and bi-photon interference and developed a manual for others to replicate the experiment.
 
+# Research Paper
 ### [Click here to open the paper in a new browser](R007_photon\Single_Photon_Lab_Real.pdf)
 <object data="R007_photon\Single_Photon_Lab_Real.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>
 
 ### [Click here to open the paper in a new browser](R007_photon\Bi_Photon_Lab_Real.pdf)
 <object data="R007_photon\Bi_Photon_Lab_Real.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>
 
+# Presentation
 The following is a beamer file of the talk given to defend my project (May 22, 2017).
 
 ### [Click here to open the presentation in a new browser](R007_photon/Bi_Photon_Presentation.pdf)

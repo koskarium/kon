@@ -12,6 +12,7 @@ This research project was conducted under the supervision of Dr. Murphy from CSU
 ### [Click here to open the paper in a new browser](R006_stability_mins/Minimal_Surfaces.pdf)
 <object data="R006_stability_mins/Minimal_Surfaces.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>
 
+# Presentation
 The following is a beamer file of the talk given at the Pacific Summer Open Math Seminar Wrap-up Mini-Conference (August 26, 2016)
 
 ### [Click here to open the presentation in a new browser](R006_stability_mins/Minimal_Surfaces_Presentation.pdf)
