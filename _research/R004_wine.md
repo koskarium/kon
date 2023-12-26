@@ -7,9 +7,11 @@ collection: research
 permalink: /research/NumAnl_Pen
 ---
 
-This was my research project for CSU Fullerton’s Econ 595 Reseach Capstone. In this project we look at wine auction data from 2014-2015 and test if the declining price anomaly is still present using R and Stata. To test, this I developed a model 
+This was my research project for CSU Fullerton’s Econ 595 Reseach Capstone. In this project we look at wine auction data from 2014-2015 and test if the declining price anomaly is still present using R and Stata. The declining price anomaly is concern with the obsercation that in multi-item acutions of identical object, the price tends to decresease over time. Effectivly, we are testing to see if there is a premium for buying the item early given that there might not be more as time progresses. To test, this we developed a model 
 $$\log{Bid750}_{t+1}=\alpha+\beta_0{Size}_{t+1}+\beta_1{High Estimate750}_{t+1}+\beta_3 Qty_{t+1}$$
 $$\qquad\qquad\qquad+\beta_4 Year_{t+1}+\beta_2{Low Estimate750}_{t+1}+\beta_5 Order_{t+1}+\epsilon_t$$
 
+ where $Bid750_{t+1}$ is the hammer price per 750ml at time $t+1$, $Bid750_{t}$ is the hammer price per 750ml at time $t$, $Size_{t+1}$ is the size of the lot at time $t+1$, $High Estimate750_{t+1}$ is the high estimate per 750ml at time $t+1$, $Low Estimate750_{t+1}$ is the low estimate per 750ml at time $t+1$, and $Qty_{t+1}$ is the quantity in the lot at time $t+1$. We found that in this particular wine action, prices did decline more so that increased when the price did change. 
 
-[Econ 595 Term Project](R004_wine/Econ_595_Project.pdf)
+
+[Term Project](R004_wine/Econ_595_Project.pdf)
