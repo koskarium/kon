@@ -8,7 +8,7 @@ permalink: /research/signal
 This came out of a consulting. In this we analyzed the smart manufacturing to see how it would be best to use 5G networks to move tremendous amount of information through blockchain technology. Futhermore, we develop ray-tracing model to analzye the propagation and blocakge of the 5G signal in a manufactoring setting. 
 
 
-### [Click here to open the paper in a new browser](R014_monpoli/Negron_Thesis_FINAL.pdf)
-<object data="R014_monpoli/Negron_Thesis_FINAL.pdf#view=fitH&toolbar=0" width="1000" height="1000" type='application/pdf' style='pointer-events: none'></object>
+### [Click here to open the paper in a new browser](ds.pdf)
+<object data="ds.pdf#view=fitH&toolbar=0" width="1000" height="1000" type='application/pdf' style='pointer-events: none'></object>
 
 

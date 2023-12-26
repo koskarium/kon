@@ -14,14 +14,8 @@ Hi there! I am pursuing higher education in pure and applied mathematics. My res
 # Research 
 My current research projects are as follows 
 
----
-title: "[15] Signal Analysis (2023)"
-excerpt: "This was research done to analyze the singal propagation of a 5G signal in a manufacturing enviroment. It included a report on the blockchain technology to asses the implementation of blockchain in a manufactoring setting alongside a 5G network. Futhermore, we develop ray-tracing model to analzye the propagation and blocakge of the 5G signal in a manufactoring setting.  *Pending publication*<br>
-***Keywords:*** *signal analysis, stochastic modeling, blockchain, 5G, MATLAB, simulation, research*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
-collection: research
-permalink: /research/specblkschls
----
-
+## [[13] Spectrum of Black Scholes Equation (current)](https://koskarium.github.io/kon/research/specblkschls)
+## [[12] Multicomplex Stone-Weierstrauss Theorem (current)](https://koskarium.github.io/kon/research/multicomsw)
 
 
 
