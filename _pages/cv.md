@@ -20,12 +20,69 @@ Education
 Teaching Experience 
 ======
 * Coding Instructor 
-  * PYLUSD 
+  * PYLUSD; Instructor
   * Fall 2022-Present
   * Taught coding courses to students grades 3-8. Coding languages including: Scratch.mit and python.
-Science Intructor
+* Science Intructor
+  * PYLUSD; Instructor
   * Spring 2020-Present
   * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, cinematography, and life sciences
+* Econ 320 Intermediate Macroecononmics
+  * CSUF; Teaching Associate 
+  * Spring 2018-2019
+  * Held weekly office hours (2) and problem solving seminars (1)
+* Economics 335 International Economics
+  * CSUF; Teaching Associate
+  * Spring 2016-2019
+  * Held weekly office hours (2) and problem solving seminars (1)
+* Econ 201 Principles of Microeconomics
+  * CSUF; Teaching Associate
+  * Spring 2019
+  * Held weekly office hours (2) and problem solving seminars (1)
+* Math 210 Introduction to Laplace Transforms and Fourier Series CSU Fullerton
+  * CSUF; Teaching Assistant 
+  * Fall 2017
+  * Held weekly office hours (1) and problem solving seminars (1)
+* Math 150A Calculus with Analytical Geometry I 
+  * CSUF; Teaching Assistant 
+  * Fall 2017
+  * Held weekly office hours (1) and problem solving seminars (1)
+* Physics 212 Elementary Physics
+  * CSUF; Teaching Associate
+  * Fall 2015-Spring 2017
+  * Held weekly office hours (2) and problem solving seminars (1)
+* Physics 225: Introduction to Classical Mechanics
+  * CSUF; Teaching Associate
+  * Spring 2017
+  * Held weekly office hours (2) and problem solving seminars (1)
+* Economics 315: Intermediate Business Microeconomics 
+  * CSUF; Graduate Assistant 
+  * Fall 2016-Spring 2017
+* Physics 211: Elementary Physics
+  * Fall 2016
+  * Held weekly office hours (2) and problem solving seminars (1)
+* Physics 226: Introduction to Electricity and Magnetism
+  * CSUF; Teaching Associate
+  * Fall 2015-Spring 2017
+  * Held weekly office hours (2) and problem solving seminars (1)
+* Physics 212: Elementary Physics
+  * CSUF; Supplemental Instructor
+  * Fall 2014
+  * Made worksheet and guided students in problem solving seminars where we focus on developing problem solving techniques
+* Physics 226: Introduction to Electricity and Magnetism
+  * CSUF; Supplemental Instructor
+  * Spring 2014
+  * Made worksheet and guided students in problem solving seminars where we focus on developing problem solving techniques
+* Math 150B: Calculus with Analytical Geometry II 
+  * CSUF; Grader
+  * Fall 2011
+  * Made solutions to and graded quizzes, worksheets, and exams
+
+
+
+
+
+
 
 
   
