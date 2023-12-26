@@ -9,3 +9,6 @@ permalink: /research/NumAnl_Pen
 This was my end of term project for CSU Fullerton’s Math 340 Numerical Analysis. In this project, we use a Legendre-Gauss Quadrature script within MATLAB to calculate the motion equations for a Simple Pendulum.
 
 [Math 340 Term Project](R003_numanl_pendulum/Math_340_A_Numerical_Investigation_on_the_Period_the_Simple_Pendulum_Problem.pdf)
+
+### [Click here to open the paper in a new browser](R003_numanl_pendulum/Math_340_A_Numerical_Investigation_on_the_Period_the_Simple_Pendulum_Problem.pdf)
+<object data="R003_numanl_pendulum/Math_340_A_Numerical_Investigation_on_the_Period_the_Simple_Pendulum_Problem.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>

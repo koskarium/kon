@@ -13,8 +13,5 @@ $$\qquad\qquad\qquad+\beta_4 Year_{t+1}+\beta_2{Low Estimate750}_{t+1}+\beta_5 O
 
 where $$Bid750_{t+1}$$ is the hammer price per 750ml at time $$t+1$$, $$Bid750_{t}$$ is the hammer price per 750ml at time $$t$$, $$Size_{t+1}$$ is the size of the lot at time $$t+1$$, $$High Estimate750_{t+1}$$ is the high estimate per 750ml at time $$t+1$$, $$Low Estimate750_{t+1}$$ is the low estimate per 750ml at time $$t+1$$, and $$Qty_{t+1}$$ is the quantity in the lot at time $$t+1$$. We found that in this particular wine action, prices did decline more so that increased when the price did change. 
 
-
+### [Click here to open the paper in a new browser](R004_wine/Econ_595_Project.pdf)
 <object data="R004_wine/Econ_595_Project.pdf#view=fitH" width="1000" height="1000" type='application/pdf'></object>
-
-
-## [Click here to open in a new browser](R004_wine/Econ_595_Project.pdf)
