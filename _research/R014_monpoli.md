@@ -1,6 +1,6 @@
 ---
 title: "[14] Monetary Policy Transmission Mechanism: A Case Study on the Mexican Economy (2022)"
-excerpt: "This was my thesis for my MA in Economics.*.<br>
+excerpt: "This was my thesis for my MA in Economics. Published on *Zenodo*.<br>
 ***Keywords:*** *monetary policy, structured VAR, Eviews, macroeconomics, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
 permalink: /research/specblkschls
@@ -12,6 +12,6 @@ This paper uses a seven variable structured VAR (SVAR) to analyze the Mexican ec
 
 
 ### [Click here to open the paper in a new browser](R014_monpoli/Negron_Thesis_FINAL.pdf)
-<object data="R014_monpoli/Negron_Thesis_FINAL.pdf#view=fitH&toolbar=0" width="1000" height="1000" type='application/pdf' style="pointer-events: none;"></object>
+<object data="R014_monpoli/Negron_Thesis_FINAL.pdf#view=fitH&toolbar=0" width="1000" height="1000" type='application/pdf' style='pointer-events: none'></object>
 
 
