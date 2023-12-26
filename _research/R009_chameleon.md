@@ -1,7 +1,7 @@
 ---
 title: "[9] General Relativity and Chameleon Action Integrals (2017)"
 excerpt: "This was my project for my Phys 599 Independent Study as a Consulting Physicist. Mr. Glenn had contacted Dr. Fearn to assist in the analysis of his paper and that project was handed down to me. I derive equations of motion from the action integral for a chameleon particle. Published in the schools journal *Dimensions*.<br>
-***Keywords:*** *theoretical physics, simulations, general relativity, f(R), Mathematica, tensors, ricci tensor, chameleon particles, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
+***Keywords:*** *theoretical physics, simulations, general relativity, f(R), Mathematica, tensors, chameleon particles, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
 permalink: /research/chameleon
 ---
