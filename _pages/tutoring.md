@@ -1,29 +1,52 @@
 ---
 layout: archive
-title: "Tutoring"
+title: "Welcome to My Tutoring Services"
 permalink: /tutoring/
 author_profile: true
 redirect_from:
   - /tutoring
 ---
 
-Greetings! I am Kevin Negron, a seasoned professional in the realm of statistical analysis, coding and mathematical modeling, dedicated to bringing a transformative approach to your business challenges. With a rich academic background and hands-on experience in leveraging data-driven methodologies, I am here to guide you through the complexities of statistical analysis and empower your decision-making processes.
-## Unparalleled Expertise
-My journey includes a Master's in Economics and Physics, coupled with a Bachelor's in Applied and Pure Mathematics. This unique blend of disciplines equips me with a holistic perspective to tackle intricate problems through the lens of statistical rigor and mathematical precision.
-## Bridging Theory and Practice
-Having served as a Statisticial specialist at Edwards Lifesciences, I honed my skills in developing theoretical frameworks and implementing sophisticated models. From navigating stochastic processes to crafting efficient statistical solutions, I am adept at transforming complex data into actionable insights. Moreover, I have work extensivly in developing design of experiments. Ranging from a manufacturing setting to test quality control, to developing suveys to asses the impact of a class, to asses the impact of ads on the companies revenue. I have worked with a myriad of client where their needs range from: developing a dashboard using DOMO and integrating ADP data, to developing a mathematical model and simulation for a binary star, to anaylzying data and automation.  
-Some of the techniques I have used are: 
-- Statistical Analysis
-  - VAR, t-test, ANOVA, ANCOVA, traditional regression, logistic regression, MANOVA, MANCOVA, factor analysis, survival analysis, time series analysis, correlation analysis, chi-square test, meta-analysis, cluster analysis, and more advanced statistical techniques such as structural equation modeling (SEM), hierarchical linear modeling (HLM), and path analysis
-- Mathematical Modeling
-  - Stochastic modeling, Monte Carlo simulation, bayesian modeling, finite element methods, finite difference methods, spectral analysis, markov chains, Lagrange interpolation, eigenvalue problems, quadrature methods, FFT, Cooley-Tukey algorithm, Runge-Kutta methods, numerical quadrature methods
 
-## Tailored Solutions for You
-Whether you're seeking to optimize processes, enhance forecasting capabilities, or delve into intricate economic analyses, I offer bespoke consulting services designed to meet your specific needs. My proficiency spans languages such as MATLAB, Python, SPSS, JMP, Minitab, and R, ensuring a versatile toolkit to address a myriad of challenges.
-## Client Success Stories
-The accolades received for enhancing forecasting capabilities at the Woods Center for Economic Analysis and Forecasting and the successful implementation of statistical strategies and design of experiments at Edwards Lifesciences stand as testimonials to my commitment to delivering results.
-## Let's Collaborate
-Embark on a journey where statistical analysis and mathematical modeling converge to pave the way for your business success. I invite you to explore the possibilities, tap into data-driven strategies, and elevate your decision-making processes. Ready to harness the power of statistical insights? Let's connect and chart a course towards transformative solutions.
+## Empowering Minds, Achieving Excellence
+Greetings! I am K.O. Negron, your dedicated tutor committed to unlocking the full potential of every learner. With a passion for education and a wealth of expertise, I bring 5 years of tutoring experience and a strong academic background in Economics, Physics, and Mathematics to our sessions.
+
+## About Me:
+I hold a Master's degree in Economics and a Master's degree in Physics from California State University Fullerton, along with Bachelor's degrees in Applied Mathematics, Physics, and Pure Mathematics. This diverse educational background equips me with a comprehensive understanding of various subjects.
+
+## Why Choose Negron Tutoring?
+Individualized Approach: Recognizing that every student learns differently, I tailor my tutoring sessions to meet your unique learning style and pace.
+
+Comprehensive Support: From understanding complex mathematical concepts to delving into the nuances of physics or mastering economic principles, I offer comprehensive support across various subjects.
+
+Clear Communication: I prioritize clear explanations and foster an open environment for questions and discussions, making complex concepts more manageable.
+
+Strategic Study Plans: Together, we'll create a personalized study plan to target your specific areas for improvement, ensuring a structured and effective learning path.
+
+## Subjects Offered:
+Mathematics (Algebra, Geometry, Calculus)
+Physics
+Economics
+Test Preparation (SAT, ACT, GRE)
+
+## Tutoring Approach:
+Assessment: We'll begin with a comprehensive assessment to identify your strengths, areas for improvement, and specific learning goals.
+
+Customized Lessons: Based on the assessment, I'll design lessons that cater to your needs, reinforcing foundational concepts and building on them progressively.
+
+Interactive Learning: Engaging and interactive sessions foster a deeper understanding of the subject matter. Expect a dynamic and participatory learning experience.
+
+Regular Feedback: Continuous feedback ensures that you are aware of your progress and areas that may need additional attention. It's a collaborative effort towards success.
+
+Testimonials:
+"Working with Mr. Negron has been a game-changer for my understanding of calculus. The personalized approach and patient explanations have made a significant impact on my academic performance." - Sarah, High School Student
+
+"I highly recommend Mr. Negron for physics tutoring. The lessons are not only informative but also enjoyable, making the learning process much smoother." - Mark's Parent
+
+Contact Information:
+Ready to embark on a journey of academic excellence? Feel free to reach out for more information or to schedule a tutoring session.
+
+
 ## Contact Information:
 **Email:** [koskar@csu.fullerton.edu](mailto:koskar@csu.fullerton.edu)  
 **Phone:** (657) 262-0205  

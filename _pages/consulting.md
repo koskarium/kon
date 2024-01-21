@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Consulting"
+title: "Welcome to My Consulting Services"
 permalink: /consulting/
 author_profile: true
 redirect_from:

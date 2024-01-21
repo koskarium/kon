@@ -246,6 +246,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: 
+  # _tutoring
+  - scope:
+      path: ""
+      type: tutoring
+    values:
+      layout: single
+      author_profile: true
+      share: true
       comment: true
   # _talks
   - scope:
