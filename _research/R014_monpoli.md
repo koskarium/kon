@@ -1,7 +1,7 @@
 ---
 title: "[14] Monetary Policy Transmission Mechanism: A Case Study on the Mexican Economy (2022)"
 excerpt: "This was my thesis for my MA in Economics. We used a seven variable structured VAR to analyze which macroeconomic variable best describes the monetary policy transmission. Published on *Zenodo*.<br>
-***Keywords:*** *monetary policy, structured VAR, Eviews, macroeconomics, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
+***Keywords:*** *monetary policy, structured VAR, EViews, macroeconomics, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
 permalink: /research/monpoli
 ---

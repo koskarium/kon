@@ -49,11 +49,11 @@ Work Experience
 * **Binary Research Institute - Consulting**
   * **Jr. Research Scientist**; May 2015-Aug 2015
   * Developed a sophisticated MATLAB simulation to investigate the hypothetical scenario of our Sun being part of a binary system with an unseen celestial companion, exploring the potential implications on nearby planets
-  * Employed advanced numerical methods, including RungeKutta Methods to accurately model the systems dynamics
+  * Employed advanced numerical methods, including Runge-Kutta Methods to accurately model the systems dynamics
 * **CSU Fullerton Department of Mathematics**
   * **Research Assistant**; Aug 2015 - Present
   * Developed an innovative method to determine a lower bound for the index of the Scherk surface, utilizing admissible perturbations and bump functions
-  * Devised a sophisticated MATLAB code to efficiently calculate and visually represent the spectrum of the second variation formula for minimal surfaces. This cutting-edge approach enabled the assessment of the stability of the dihedral Eneper surface by transforming the problem into a Dirichlet problem
+  * Devised a sophisticated MATLAB code to efficiently calculate and visually represent the spectrum of the second variation formula for minimal surfaces. This cutting-edge approach enabled the assessment of the stability of the dihedral Enneper surface by transforming the problem into a Dirichlet problem
   * Conducted an extensive literature review, assimilating relevant research findings, and collaborated closely in the preparation of a manuscript for publication in the prestigious journal Experimental Mathematics
 * **CSU Fullerton Department of Physics**
   * **Research Assistant**; Jan 2015 - June 2017
@@ -79,8 +79,8 @@ Teaching Experience
 * **Substitute  Teacher**
   * PYLUSD; Instructor
   * Fall 2022-Present
-  * Have subbed for the following courses: AP Calculus, AP Physics, AP Econonmics, Data Science, Chemistry, Economics, Geometry, Algebra I, Algebra II, Pre-Calculus
-* **Econ 320 Intermediate Macroecononmics**
+  * Have subbed for the following courses: AP Calculus, AP Physics, AP Economics, Data Science, Chemistry, Economics, Geometry, Algebra I, Algebra II, Pre-Calculus
+* **Econ 320 Intermediate Macroeconomics**
   * CSUF; Teaching Associate 
   * Spring 2018-2019
   * Held weekly office hours (2) and problem-solving seminars (1)
@@ -169,16 +169,16 @@ Research
 * **Puzzles: A Look at the Declining Price Anomaly (2015)**, K.O. Negron
 * **Single Photon Interference (2015)**, B.C. Clark and K.O. Negron (under supervision of Dr. Fearn)
 * **A Numerical Investigation on the Period of the Simple Pendulum Problem (2014)**, K.O. Negron
-* **Walter Rudin’s theory extended to multicomplex-valued function spaces (2013)**, D. Clahane and K.O.Negron
+* **Walter Rudin’s theory extended to multicomplex-valued function spaces (2013)**, D. Clahane and K.O. Negron
 * **Shadow Sensoring: Determining Damping with Lasers and Photo Diodes (2012)**, K.O. Negron and D. Orton (under the supervision of Dr. Smith)
 * **p-adic Analysis - A Set of Notes (2011)**, K.O. Negron (under the supervision of Dr. Ibragimov)
   
 Talks
 ======
 * **Monetary Policy Transmission Mechanism: A Case Study on the Mexican Economy**
-  * Master of Arts in Economics Thesis Defence - California State University Fullerton, Fullerton, Ca (December 15, 2022)
+  * Master of Arts in Economics Thesis Defense - California State University Fullerton, Fullerton, Ca (December 15, 2022)
 * **Photon Interference**
-  * Master of Science in Physics Thesis Defence - California State University Fullerton, Fullerton, Ca (May 22, 2017)
+  * Master of Science in Physics Thesis Defense - California State University Fullerton, Fullerton, Ca (May 22, 2017)
 * **Stability of Minimal Surfaces: A Study on Scherk Surface**
   * Pacific Summer Open Math Seminar Wrap-up Mini-Conference – Fullerton College, Fullerton, Ca (August 26, 2016)
 * **Multicomplex Stone-Weierstrass Theorem**

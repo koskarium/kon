@@ -1,7 +1,7 @@
 ---
 title: "[2] Shadow Sensoring: Determining Damping with Lasers and Photodiodes (2012)"
-excerpt: "An undergrad project in experimental physics. Published in the schools journal *Dimensions*.<br> 
-***Keywords:*** *Diodes, damping, harmonic motion, experimental physics, undegrad*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
+excerpt: "An undergrad project in experimental physics. Published in the school's journal *Dimensions*.<br> 
+***Keywords:*** *Diodes, damping, harmonic motion, experimental physics, undergrad*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
 permalink: /research/shadow_sensor
 ---

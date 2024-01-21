@@ -1,6 +1,6 @@
 ---
 title: "[10] Lattice Vibrations in Aperiodic Self-Similar Low Dimension Phonon Lattice (2017)"
-excerpt: "This was my term paper for Phys 554 Solid State Physics. In this paper we study the lattice vibrations of a aperiodic self-similar lattice. Published in the schools journal *Dimensions*.<br>
+excerpt: "This was my term paper for Phys 554 Solid State Physics. In this paper we study the lattice vibrations of an aperiodic self-similar lattice. Published in the school's journal *Dimensions*.<br>
 ***Keywords:*** *solid state physics, Mathematica, lattice vibrations, Fibonacci aperiodic generation, graduate*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
 permalink: /research/phononlattice
