@@ -9,27 +9,28 @@ redirect_from:
 
 Greetings! I am Kevin Negron, a seasoned professional in the realm of statistical analysis, coding and mathematical modeling, dedicated to bringing a transformative approach to your business challenges. With a rich academic background and hands-on experience in leveraging data-driven methodologies, I am here to guide you through the complexities of statistical analysis and empower your decision-making processes.
 
-# Unparalleled Expertise
+## Unparalleled Expertise
 
 My journey includes a Master's in Economics and Physics, coupled with a Bachelor's in Applied and Pure Mathematics. This unique blend of disciplines equips me with a holistic perspective to tackle intricate problems through the lens of statistical rigor and mathematical precision.
 
 
-# Bridging Theory and Practice
+## Bridging Theory and Practice
 
-Having served as a Statisticial specialist at Edwards Lifesciences, I honed my skills in developing theoretical frameworks and implementing sophisticated models. From navigating stochastic processes to crafting efficient statistical solutions, I am adept at transforming complex data into actionable insights. Moreover, I have work deeply in developing design of experiments to test quality control. I have worked with a myriad of client where their needs range from: developing a dashboard using DOMO and integrating ADP data, to developing a mathematical model and simulation for a binary star, to . 
+Having served as a Statisticial specialist at Edwards Lifesciences, I honed my skills in developing theoretical frameworks and implementing sophisticated models. From navigating stochastic processes to crafting efficient statistical solutions, I am adept at transforming complex data into actionable insights. Moreover, I have work extensivly in developing design of experiments. Ranging from a manufacturing setting to test quality control, to a suvey analysis to asses the impact of a class, to asses the impact of ads on the companies spending. I have worked with a myriad of client where their needs range from: developing a dashboard using DOMO and integrating ADP data, to developing a mathematical model and simulation for a binary star, to anaylzying data and automation.
+ 
 
 
-# Tailored Solutions for You
+## Tailored Solutions for You
 Whether you're seeking to optimize processes, enhance forecasting capabilities, or delve into intricate economic analyses, I offer bespoke consulting services designed to meet your specific needs. My proficiency spans languages such as MATLAB, Python, SPSS, JMP, Minitab, and R, ensuring a versatile toolkit to address a myriad of challenges.
 
 
-# Client Success Stories
+## Client Success Stories
 The accolades received for enhancing forecasting capabilities at the Woods Center for Economic Analysis and Forecasting and the successful implementation of statistical strategies and design of experiments at Edwards Lifesciences stand as testimonials to my commitment to delivering results.
 
-# Let's Collaborate
+## Let's Collaborate
 Embark on a journey where statistical analysis and mathematical modeling converge to pave the way for your business success. I invite you to explore the possibilities, tap into data-driven strategies, and elevate your decision-making processes. Ready to harness the power of statistical insights? Let's connect and chart a course towards transformative solutions.
 
-# Contact Information:
+## Contact Information:
 
 Email: [Your Email]
 Phone: [Your Phone Number]
