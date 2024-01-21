@@ -1,6 +1,6 @@
 ---
 title: "[13] Spectrum of Black Scholes Equation (current)"
-excerpt: "In this project we are analysing the spectrum of the Black Scholes Equation that models the price of certain securities.*.<br>
+excerpt: "In this project we are analyzing the spectrum of the Black Scholes Equation that models the price of certain securities.*.<br>
 ***Keywords:*** *spectrum, finance, Black-Scholes equation, pde, MATLAB, research, math*" #add this to add an image inside the "" <br/><img src='R001_padic/500x300.png'>
 collection: research
 permalink: /research/specblkschls
