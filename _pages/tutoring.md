@@ -35,6 +35,7 @@ I hold a Master's degree in Economics and a Master's degree in Physics from Cali
   - Trigonometry
   - Multivariable Calculus
   - Differential Equations
+  - Linear Algebra
   - Partial Differential Equations
   - Real Analysis
   - Numerical Analysis
