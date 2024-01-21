@@ -32,6 +32,6 @@ Embark on a journey where statistical analysis and mathematical modeling converg
 
 ## Contact Information:
 
-Email: [Your Email]
+Email: [koskar@csu.fullerton.edu](mailto:koskar@csu.fullerton.edu)
 Phone: [Your Phone Number]
 Welcome to a realm where data meets precision, and solutions emerge from the depths of mathematical analysis. Welcome to Oskar Statistical Analysis and Mathematical Modeling Consulting
