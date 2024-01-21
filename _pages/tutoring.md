@@ -77,5 +77,4 @@ Regular Feedback: Continuous feedback ensures that you are aware of your progres
 # Contact Information:
 **Email:** [koskar@csu.fullerton.edu](mailto:koskar@csu.fullerton.edu)  
 **Phone:** (657) 262-0205   
-Ready to embark on a journey of academic excellence? Feel free to reach out for more information or to schedule a tutoring session.    
-Welcome to a realm where data meets precision, and solutions emerge from the depths of mathematical analysis.  Welcome to Oskar Statistical Analysis and Mathematical Modeling .
+Ready to embark on a journey of academic excellence? Feel free to reach out for more information or to schedule a tutoring session.

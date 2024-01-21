@@ -21,7 +21,8 @@ Some of the techniques I have used are:
 ## Tailored Solutions for You
 Whether you're seeking to optimize processes, enhance forecasting capabilities, or delve into intricate economic analyses, I offer bespoke consulting services designed to meet your specific needs. My proficiency spans languages such as MATLAB, Python, SPSS, JMP, Minitab, and R, ensuring a versatile toolkit to address a myriad of challenges.
 ## Client Success Stories
-The accolades received for enhancing forecasting capabilities at the Woods Center for Economic Analysis and Forecasting and the successful implementation of statistical strategies and design of experiments at Edwards Lifesciences stand as testimonials to my commitment to delivering results.
+The accolades received for enhancing forecasting capabilities at the Woods Center for Economic Analysis and Forecasting and the successful implementation of statistical strategies and design of experiments at Edwards Lifesciences stand as testimonials to my commitment to delivering results.  
+Some of the companies I have consulted: Edward Lifesciences, Binary Research Institute, Pacific Life, Restaurant365, Woods Center for Economic Analysis and Forecasting, The Conference Board of Canada, 605 - 6ix0ero5ive
 ## Let's Collaborate
 Embark on a journey where statistical analysis and mathematical modeling converge to pave the way for your business success. I invite you to explore the possibilities, tap into data-driven strategies, and elevate your decision-making processes. Ready to harness the power of statistical insights? Let's connect and chart a course towards transformative solutions.
 ## Contact Information:
