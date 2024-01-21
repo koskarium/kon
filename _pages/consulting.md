@@ -15,7 +15,7 @@ Having served as a Statisticial specialist at Edwards Lifesciences, I honed my s
 Some of the techniques I have used are: 
 - Statistical Analysis
   - VAR, t-test, ANOVA, ANCOVA, traditional regression, logistic regression, MANOVA, MANCOVA, factor analysis, survival analysis, time series analysis, correlation analysis, chi-square test, meta-analysis, cluster analysis, and more advanced statistical techniques such as structural equation modeling (SEM), hierarchical linear modeling (HLM), and path analysis
--Mathematical Modeling
+- Mathematical Modeling
   - Stochastic modeling, Monte Carlo simulation, bayesian modeling, finite element methods, finite difference methods, spectral analysis, markov chains, Lagrange interpolation, eigenvalue problems, quadrature methods, FFT, Cooley-Tukey algorithm, Runge-Kutta methods, numerical quadrature methods
 
 ## Tailored Solutions for You
