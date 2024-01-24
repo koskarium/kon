@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Empowering Minds, Achieving Excellence
-Greetings! I am Kevin Negron. With a passion for education and a wealth of expertise, I bring more than 10 years of tutoring experience and a strong academic background in Economics, Physics, and Mathematics to our sessions.
+Greetings! I am Kevin Negron. With a passion for education and a wealth of expertise, I bring more than 10 years of teaching and tutoring experience and a strong academic background in Economics, Physics, and Mathematics to our sessions.
 
 ## About Me:
 I hold a Master's degree in Economics and a Master's degree in Physics from California State University Fullerton, along with Bachelor's degrees in Applied Mathematics, Physics, and Pure Mathematics. This diverse educational background equips me with a comprehensive understanding of various subjects. Moreover, having taught college level courses as well as grades 2-12, has allowed me to pinpoint the difficulty in learning of various age groups and background levels. 
