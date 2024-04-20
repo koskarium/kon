@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am pursuing higher education in pure and applied mathematics. My research interests are differential geometry, Riemannian geometry, PDEs, statistics, behavioral economics, quantum optics, numerical analysis, computation, and real analysis. Previously, I completed an MS in Physics and an MA in Economics from CSU Fullerton. My undergrad was in Applied Mathematics, Physics, and Pure Mathematics. Currently, I work as an instructor and as a consultant. In my spare time I enjoy hiking, tennis, snowboarding, surfing, traveling, photography, cooking, and baking. 
+Hi there! I am pursuing higher education in pure and applied mathematics. My research interests are differential geometry, Riemannian geometry, PDEs, statistics, behavioral economics, quantum optics, numerical analysis, computation, and real analysis. Previously, I completed an MS in Physics and an MA in Economics from CSU Fullerton. My undergrad was in Applied Mathematics, Physics, and Pure Mathematics. Currently, I work as a scientist and as a consultant. In my spare time I enjoy hiking, tennis, snowboarding, surfing, traveling, photography, cooking, and baking. 
 
 # Research 
 Currently I am working on the following academic projects

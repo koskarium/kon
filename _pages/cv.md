@@ -19,8 +19,11 @@ Education
 
 Work Experience 
 ======
+* **Naval Air Warfare Center Weapons Division (NAWCWD)**
+  * **Scientist**; April 2024 - Present
+  * Modeling and simulation
 * **Placentia-Yorba Linda Unified School District**
-  * **Instructor**; August 2020 - Present
+  * **Instructor**; August 2020 - 2024
   * Lead engaging after-school STEM programs, fostering curiosity and critical thinking among students
   * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, and life sciences
 * **Edwards Lifesciences - Consulting**
@@ -68,10 +71,6 @@ Work Experience
 
 Teaching Experience 
 ======
-* **Coding Instructor**
-  * PYLUSD; Instructor
-  * Fall 2022-Present
-  * Taught coding courses to students in grades 3-8. Coding languages including Scratch.mit and python
 * **Science Instructor**
   * PYLUSD; Instructor
   * Spring 2020-Present
@@ -80,6 +79,10 @@ Teaching Experience
   * PYLUSD; Instructor
   * Fall 2022-Present
   * Have subbed for the following courses: AP Calculus, AP Physics, AP Economics, Data Science, Chemistry, Economics, Geometry, Algebra I, Algebra II, Pre-Calculus
+* **Coding Instructor**
+  * PYLUSD; Instructor
+  * Fall 2022-2024
+  * Taught coding courses to students in grades 3-8. Coding languages including Scratch.mit and python
 * **Econ 320 Intermediate Macroeconomics**
   * CSUF; Teaching Associate 
   * Spring 2018-2019
