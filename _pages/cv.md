@@ -42,12 +42,12 @@ Work Experience
   * Devised a sophisticated MATLAB code to efficiently calculate and visually represent the spectrum of the second variation formula for minimal surfaces. This cutting-edge approach enabled the assessment of the stability of the dihedral Enneper surface by transforming the problem into a Dirichlet problem
   * Conducted an extensive literature review, assimilating relevant research findings, and collaborated closely in the preparation of a manuscript for publication in the prestigious journal Experimental Mathematics
 * **Woods Center for Economic Analysis and Forecasting - Consulting**
-  * **Econometrician**; July 2020-Oct 2020
+  * **Econometrician**; July 2020 - Oct 2020
   * Utilized Python for data preprocessing, R for Box-Jenkins modeling, and Excel for dynamic visualization, producing comprehensive reports that drive actionable insights 
   * Streamlined and automated data set downloading with APIs and updates using Python, ensuring real-time access to critical information for analysis and forecasting
   * Received accolades for the efficacy of the implementation in enhancing forecasting capabilities and optimizing processes through automation for the 2020 Fall Economic Forecast Virtual Conference held on October 22, 2020
 * **The Conference Board - Consulting** 
-  * **Econometrician**; Jan 2019-Aug 2019
+  * **Econometrician**; Jan 2019 - Aug 2019
   * Monitor and track the latest economic trends in microeconomics and macroeconomics, specifically for the GCC region, skillfully interpreting and leveraging historical data and current market trends to offer real-time updates and empower data-driven strategies and informed recommendations 
 * **CSU Fullerton Department of Economics and Department of Physics**
   * **Teaching Associate**; Aug 2014 - July 2019
@@ -59,7 +59,7 @@ Work Experience
   * Revamped the experimental design by introducing a piezo driver, enabling the measurement of photon counts versus voltage through the driver. This transformative enhancement automated the experiment, saving valuable time previously spent on manual adjustments of distances
   * Designed theoretical model for photon experiment, calibrated interferometer, and automated data analysis and mining with Python and MATLAB
 * **Pacific Life**
-  * **Data Analytics Intern**; Jun 2016-Oct 2016
+  * **Data Analytics Intern**; Jun 2016 - Oct 2016
   * Designed dashboards to visualize the impact of genetic testing on life insurance, recommend annuities and retirement products based on customer characteristics, and assess the adequacy of company reserves under varying economic scenarios
   * Developed a user-friendly process for calculating reserves affected by GAAP Targeted Improvements by extracting and manipulating data using Access, VBA, R, and Python
   * Collaborated in a competitive project to build a model predicting policy lapses
@@ -67,11 +67,11 @@ Work Experience
   * Utilized actuarial modeling software and Access to produce monthly/quarterly reserves for income annuities
   * Mined and analyzed large datasets to derive insights and guide product feature development
 * **Binary Research Institute - Consulting**
-  * **Jr. Research Scientist**; May 2015-Aug 2015
+  * **Jr. Research Scientist**; May 2015 - Aug 2015
   * Developed a sophisticated MATLAB simulation to investigate the hypothetical scenario of our Sun being part of a binary system with an unseen celestial companion, exploring the potential implications on nearby planets
   * Employed advanced numerical methods, including Runge-Kutta Methods to accurately model the systems dynamics
 * **Nationwide**
-  * **Pricing Actuarial Intern**; Sep 2014-Jan 2015
+  * **Pricing Actuarial Intern**; Sep 2014 - Jan 2015
   * Utilized R and SQL for data visualization and analysis, contributed to pricing strategies, supported risk assessment and created reporting dashboards with Tableau
   * Actively contributed to team meetings, fostering a collaborative environment that facilitated knowledge exchange and enriched understanding of the various intricacies of the insurance industry
   * Assisted senior actuaries in conducting data analysis, risk assessments, and predictive modeling, playing a pivotal role in supporting critical business decisions and driving risk mitigation strategies
@@ -81,23 +81,23 @@ Teaching Experience
 ======
 * **Science Instructor**
   * PYLUSD; Instructor
-  * Spring 2020-Present
+  * Spring 2020 - Present
   * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, cinematography, and life sciences
 * **Substitute Teacher**
   * PYLUSD; Instructor
-  * Fall 2022-Present
+  * Fall 2022 - Present
   * Have subbed for the following courses: AP Calculus, AP Physics, AP Economics, Data Science, Chemistry, Economics, Geometry, Algebra I, Algebra II, Pre-Calculus
 * **Coding Instructor**
   * PYLUSD; Instructor
-  * Fall 2022-2024
+  * Fall 2022 - 2024
   * Taught coding courses to students in grades 3-8. Coding languages including Scratch.mit and python
 * **Econ 320 Intermediate Macroeconomics**
   * CSUF; Teaching Associate 
-  * Spring 2018-2019
+  * Spring 2018 - 2019
   * Held weekly office hours (2) and problem-solving seminars (1)
 * **Economics 335 International Economics**
   * CSUF; Teaching Associate
-  * Spring 2016-2019
+  * Spring 2016 - 2019
   * Held weekly office hours (2) and problem-solving seminars (1)
 * **Econ 201 Principles of Microeconomics**
   * CSUF; Teaching Associate
@@ -113,7 +113,7 @@ Teaching Experience
   * Held weekly office hours (1) and problem-solving seminars (1)
 * **Physics 212 Elementary Physics**
   * CSUF; Teaching Associate
-  * Fall 2015-Spring 2017
+  * Fall 2015 - Spring 2017
   * Held weekly office hours (2) and problem-solving seminars (1)
 * **Physics 225: Introduction to Classical Mechanics**
   * CSUF; Teaching Associate
