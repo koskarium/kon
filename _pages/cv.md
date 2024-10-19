@@ -32,10 +32,15 @@ Work Experience
   * Developed a theoretical stochastic process framework to assess the signal blockage probability in randomly generated spaces and leveraged a strong proficiency in MATLAB to design and implement a simplistic ray-tracing model
   * Created sample plans, interpreted if data was normal, created validation plans, automated Gage R&R analysis, and evaluated validation results
 * **CSU Fullerton Center for Economic Education**
-  * **Educational Research Data Analyst**; Sept 2019 - May 2021
+  * **Educational Research Data Analyst**; Sept 2019 - May 2022
   * Developed VBA and R scripts for efficient survey data collected with Qualtrics encoding and conducted lexicon and factor score analysis
   * Implemented advanced multinomial logistic regression models for in-depth educational research analysis
   * Collaborated closely with the research team, contributing statistical expertise and assisting in the interpretation and communication of research findings to diverse audiences
+* **CSU Fullerton Department of Mathematics**
+  * **Research Assistant**; Aug 2015 - August 2021
+  * Developed an innovative method to determine a lower bound for the index of the Scherk surface, utilizing admissible perturbations and bump functions
+  * Devised a sophisticated MATLAB code to efficiently calculate and visually represent the spectrum of the second variation formula for minimal surfaces. This cutting-edge approach enabled the assessment of the stability of the dihedral Enneper surface by transforming the problem into a Dirichlet problem
+  * Conducted an extensive literature review, assimilating relevant research findings, and collaborated closely in the preparation of a manuscript for publication in the prestigious journal Experimental Mathematics
 * **Woods Center for Economic Analysis and Forecasting - Consulting**
   * **Econometrician**; July 2020-Oct 2020
   * Utilized Python for data preprocessing, R for Box-Jenkins modeling, and Excel for dynamic visualization, producing comprehensive reports that drive actionable insights 
@@ -49,19 +54,22 @@ Work Experience
   * Delivered engaging and comprehensive lectures for both first and second-year physics courses, catering to students with diverse backgrounds in calculus and non-calculus versions of mechanics and electrodynamics 
   * Spearheaded seminars for third-year economic courses, including managerial economics, microeconomics, econometrics, international economics, and macroeconomics
   * Offered dedicated office hours, fostering a supportive learning environment and providing personalized guidance to students facing challenges in the subject matter
+* **CSU Fullerton Department of Physics**
+  * **Optics Lab Research Assistant**; Jan 2015 - June 2017
+  * Revamped the experimental design by introducing a piezo driver, enabling the measurement of photon counts versus voltage through the driver. This transformative enhancement automated the experiment, saving valuable time previously spent on manual adjustments of distances
+  * Designed theoretical model for photon experiment, calibrated interferometer, and automated data analysis and mining with Python and MATLAB
+* **Pacific Life**
+  * **Data Analytics Intern**; Jun 2016-Oct 2016
+  * Designed dashboards to visualize the impact of genetic testing on life insurance, recommend annuities and retirement products based on customer characteristics, and assess the adequacy of company reserves under varying economic scenarios
+  * Developed a user-friendly process for calculating reserves affected by GAAP Targeted Improvements by extracting and manipulating data using Access, VBA, R, and Python
+  * Collaborated in a competitive project to build a model predicting policy lapses
+  * Led process improvements on valuation procedures using Excel VBA
+  * Utilized actuarial modeling software and Access to produce monthly/quarterly reserves for income annuities
+  * Mined and analyzed large datasets to derive insights and guide product feature development
 * **Binary Research Institute - Consulting**
   * **Jr. Research Scientist**; May 2015-Aug 2015
   * Developed a sophisticated MATLAB simulation to investigate the hypothetical scenario of our Sun being part of a binary system with an unseen celestial companion, exploring the potential implications on nearby planets
   * Employed advanced numerical methods, including Runge-Kutta Methods to accurately model the systems dynamics
-* **CSU Fullerton Department of Mathematics**
-  * **Research Assistant**; Aug 2015 - Present
-  * Developed an innovative method to determine a lower bound for the index of the Scherk surface, utilizing admissible perturbations and bump functions
-  * Devised a sophisticated MATLAB code to efficiently calculate and visually represent the spectrum of the second variation formula for minimal surfaces. This cutting-edge approach enabled the assessment of the stability of the dihedral Enneper surface by transforming the problem into a Dirichlet problem
-  * Conducted an extensive literature review, assimilating relevant research findings, and collaborated closely in the preparation of a manuscript for publication in the prestigious journal Experimental Mathematics
-* **CSU Fullerton Department of Physics**
-  * **Research Assistant**; Jan 2015 - June 2017
-  * Revamped the experimental design by introducing a piezo driver, enabling the measurement of photon counts versus voltage through the driver. This transformative enhancement automated the experiment, saving valuable time previously spent on manual adjustments of distances
-  * Designed theoretical model for photon experiment, calibrated interferometer, and automated data analysis and mining with Python and MATLAB
 * **Nationwide**
   * **Pricing Actuarial Intern**; Sep 2014-Jan 2015
   * Utilized R and SQL for data visualization and analysis, contributed to pricing strategies, supported risk assessment and created reporting dashboards with Tableau
@@ -75,7 +83,7 @@ Teaching Experience
   * PYLUSD; Instructor
   * Spring 2020-Present
   * Develop dynamic lessons covering diverse topics, including mathematics, circuits, astronomy, cinematography, and life sciences
-* **Substitute  Teacher**
+* **Substitute Teacher**
   * PYLUSD; Instructor
   * Fall 2022-Present
   * Have subbed for the following courses: AP Calculus, AP Physics, AP Economics, Data Science, Chemistry, Economics, Geometry, Algebra I, Algebra II, Pre-Calculus
@@ -223,8 +231,6 @@ Honors & awards
   * May 2017
 * **Pacific Life Actuary Scholarship**
   * May 2016
-* **Robert Kedzie Award**
-  * May 2013
 * **Eiker-Adams Creativity Award**
   * May 2015
 * **Actuarial Studies Scholarship**
